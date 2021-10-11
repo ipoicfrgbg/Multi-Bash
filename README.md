@@ -1,3 +1,7 @@
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/dishapatel010/Multi-Bash)
+
+
 Read code & use vars no one gona help you!
 
 Credits ©
