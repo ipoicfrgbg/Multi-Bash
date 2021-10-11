@@ -1,0 +1,58 @@
+{
+    "name": "Multi Upload Telegram Bot",
+    "description": "A Powerful Base For Telethon Bots",
+    "logo": "",
+    "keywords": [
+        "telegram",
+        "telethon",
+        "telegram-bot",
+		"TelethonBase",
+		"Lucifeermorningstar",
+		"DaisyX",
+        "Devil"
+    ],
+    "stack": "container",
+    "env": {
+        "API_HASH": {
+            "description": "Api Hash",
+            "value": ""
+        },
+        "APP_ID": {
+            "description": "Api Id",
+            "value": ""
+        },
+        "BOT_TOKEN": {
+            "description": "Bot Token That You Got From @botfather",
+            "value": ""
+        },
+        "BOTX_TOKEN": {
+            "description": "Bot Token That You Got From @botfather",
+            "value": ""
+        },
+        "STREAMTAPE_API_USERNAME": {
+            "description": "Streamtape API Username. Get this from https://streamtape.com/accpanel#collapseThree"
+        },
+        "STREAMTAPE_API_PASS": {
+            "description": "Streamtape API Password. Get this from https://streamtape.com/accpanel#collapseThree"
+        },
+        "BOT_OWNER": {
+            "description": "Bot Owner UserID",
+            "required": false
+        },
+        "LOGX_CHANNEL": {
+            "description": "Logs Channel ID for some Tracking XD. Example: -100123456789"
+        },
+        "CHNLUSRNME": {
+            "description": "Your channel to work fsub. Add you channel username without @",
+            "value": ""
+        },
+        "OWNRID": {
+            "description": "Yr TG ID here bitch",
+            "value": "1252058587"
+        },
+        "LOG_CHANNEL": {
+            "description": "Channel to Log Activities",
+            "value": ""
+        }
+    }
+}

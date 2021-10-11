@@ -1,0 +1,7 @@
+pyrogram
+telethon
+cryptg
+TgCrypto
+requests
+asyncio
+aiohttp
